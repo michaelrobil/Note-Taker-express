@@ -1,5 +1,4 @@
 # Note-Taker-express
- This application use an express backend and save and retrieve note data from a JSON file.
 
 ## About
 This web application is intended as a tool for users who want to write, save, and delete notes.
@@ -12,6 +11,7 @@ This web application is intended as a tool for users who want to write, save, an
 - Javascript, jQuery, Ajax
 - Node, Express
 - Heroku
+- JSON
 
 ## License
 Unlicense
